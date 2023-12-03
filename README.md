@@ -1,4 +1,5 @@
 **Aplicativo de Gerenciamento de Clubes de Futebol ⚽** 
+Aplicação apresentada à cadeira de Projeto e Desenvolvimento de Software/UFMA
 
  <img align="center" alt="kely-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
@@ -9,7 +10,6 @@
 Bem-vindo ao Aplicativo de Gerenciamento de Clubes de Futebol! Esta aplicação foi desenvolvida para oferecer uma solução abrangente e eficiente no gerenciamento de informações relacionadas a clubes, jogadores e treinadores no mundo do futebol. Utilizando tecnologias Java, Spring Boot e JavaFX, este aplicativo proporciona uma experiência intuitiva e funcional para entusiastas do esporte.
 
 ---
-**Aplicação apresentada à cadeira de Projeto e Desenvolvimento de Software/UFMA**
 
 ## Recursos Principais
 
