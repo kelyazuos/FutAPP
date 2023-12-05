@@ -21,14 +21,6 @@ Bem-vindo ao Aplicativo de Gerenciamento de Clubes de Futebol! Esta aplicação 
   - Mantenha registros abrangentes de jogadores e treinadores.
   - Inclua estatísticas de desempenho, histórico de carreira e informações pessoais.
 
-- **Agenda e Resultados em Tempo Real:**
-  - Acompanhe partidas, agendas e resultados em tempo real.
-  - Integração com fontes externas para fornecer informações precisas.
-
-- **Controle Financeiro Eficiente:**
-  - Gerencie finanças de forma transparente.
-  - Monitore orçamentos, receitas e despesas para manter a saúde financeira do clube.
-
 - **Autenticação Segura e Controle de Acesso:**
   - Sistema robusto de autenticação para garantir a segurança dos dados.
   - Controle de acesso baseado em papéis.
