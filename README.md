@@ -7,19 +7,38 @@ Aplicação apresentada à cadeira de Projeto e Desenvolvimento de Software/UFMA
 
 ## Visão Geral
 
-Bem-vindo ao Aplicativo de Gerenciamento de Clubes de Futebol! Esta aplicação foi desenvolvida para oferecer uma solução abrangente e eficiente no gerenciamento de informações relacionadas a clubes, jogadores e treinadores no mundo do futebol. Utilizando tecnologias Java, Spring Boot e JavaFX, este aplicativo proporciona uma experiência intuitiva e funcional para entusiastas do esporte.
+Bem-vindo ao Aplicativo de Gerenciamento de Clubes de Futebol! Esta aplicação foi desenvolvida para oferecer uma solução abrangente e eficiente no gerenciamento de informações relacionadas a clubes, jogadores e treinadores no mundo do futebol. 
 
 ---
 
 ## Recursos Principais
 
-- **Gestão de Clubes:**
-  - Cadastre, atualize e remova informações detalhadas sobre clubes de futebol.
-  - Adicione dados históricos, estatísticas e galerias multimídia.
+-    **Gerenciamento de Clubes:**
+       - Cadastro de Clubes: Permitir o registro de novos clubes com informações como nome, cidade e estádio.
+       - Atualização de Clubes: Possibilitar a modificação de informações de clubes existentes.
+       - Exclusão de Clubes: Permitir a remoção de clubes do sistema.
 
-- **Perfil Detalhado de Jogadores e Treinadores:**
-  - Mantenha registros abrangentes de jogadores e treinadores.
-  - Inclua estatísticas de desempenho, histórico de carreira e informações pessoais.
+  -  **Gerenciamento de Jogadores:**
+      -  Cadastro de Jogadores: Permitir a inclusão de novos jogadores com detalhes como nome, posição, pé, camisa, nacionalidade e tipo de transferência.
+      -  Atualização de Jogadores: Possibilitar a edição de informações de jogadores existentes.
+     -   Exclusão de Jogadores: Permitir a remoção de jogadores do banco de dados.
+
+  - **Gerenciamento de Treinadores:**
+    - Cadastro de Treinadores: Possibilitar o registro de novos treinadores com informações como nome e cargo.
+    - Atualização de Treinadores: Permitir a atualização de informações de treinadores existentes.
+    - Exclusão de Treinadores: Permitir a remoção de treinadores do sistema.
+
+  - **Gestão de Transferências:**
+     - Registro de Transferências: Permitir o registro de transferências de jogadores, especificando se é empréstimo ou definitivo.
+     - Atualização de Transferências: Possibilitar a modificação de informações relacionadas a uma transferência, como duração do empréstimo ou situação de obrigatoriedade de compra.
+
+ -  **Relatórios Financeiros:**
+      - Visualização de Relatórios: Permitir que usuários autorizados visualizem relatórios financeiros, incluindo receitas, despesas e lucros do clube.
+
+-   **Requisitos Não Funcionais:**
+     - Tempo de Resposta Rápido: Garantir tempos de resposta curtos para ações comuns.
+     -  Clareza: Assegurar mensagens de erro compreensíveis e uma interface intuitiva.
+    - Manutenibilidade: Organizar o código-fonte seguindo as melhores práticas para facilitar a manutenção.
 
 - **Autenticação Segura e Controle de Acesso:**
   - Sistema robusto de autenticação para garantir a segurança dos dados.
