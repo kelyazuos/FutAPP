@@ -1,4 +1,4 @@
-**Aplicativo de Gerenciamento de Clubes de Futebol ⚽** 
+## **Aplicativo de Gerenciamento de Clubes de Futebol ⚽** 
 Aplicação apresentada à cadeira de Projeto e Desenvolvimento de Software/UFMA
 
  <img align="center" alt="kely-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
