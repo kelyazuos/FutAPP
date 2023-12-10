@@ -83,6 +83,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propo
 
 
 Autores: ANTONIO LISTER, GABRIEL FERNANDO, KELY SOUZA,  LUCAS TEIXEIRA,  VICTOR COELHO.
+
 contato: lister.wd@hotmail.com ; gabrielfernandocarneiro798@gmail.com;  kely.souza@discente.ufma.br ;lucas.teixeira@discente.ufma.br 
 
 data última versão: 04/12/2023
